@@ -14,7 +14,7 @@ Tested with:
 
 ## Setup
 
-- create file `books.db`
+- copy env file `cp .env.example .env` and update variables accordingly
 - run `npm i && npm run dev`
 - run `go run main.go`
 
@@ -33,3 +33,4 @@ Tested with:
 
 - https://tutorialedge.net/golang/basic-rest-api-go-fiber/
 - https://github.com/gofiber/fiber
+- https://github.com/joho/godotenv
