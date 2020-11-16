@@ -2,6 +2,16 @@
 
 Testing out Go Lang Fiber framework
 
+#### Requirements
+
+Tested with:
+
+- go `go1.14.2 linux/amd64`
+- node `v12.14.1`
+- npm `6.13.4`
+- sqlite3 `3.28.0`
+- fiber v2
+
 ## Setup
 
 - create file `books.db`
