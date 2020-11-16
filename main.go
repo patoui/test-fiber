@@ -8,8 +8,8 @@ import (
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
 	"github.com/patoui/test-fiber/database"
-	"github.com/patoui/test-fiber/modules/book"
-	"github.com/patoui/test-fiber/modules/home"
+	"github.com/patoui/test-fiber/src/book"
+	"github.com/patoui/test-fiber/src/home"
 )
 
 func setupRoutes(app *fiber.App) {
