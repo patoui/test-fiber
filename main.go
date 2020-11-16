@@ -6,8 +6,8 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
-	"github.com/patoui/test-fiber/book"
 	"github.com/patoui/test-fiber/database"
+	"github.com/patoui/test-fiber/modules/book"
 )
 
 func setupRoutes(app *fiber.App) {
