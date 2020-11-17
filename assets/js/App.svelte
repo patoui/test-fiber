@@ -1,4 +1,4 @@
-<h1>Rocket + Svelte</h1>
+<h1>Fiber + Svelte</h1>
 
 <style>
     h1 {
