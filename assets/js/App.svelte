@@ -11,6 +11,6 @@
     import { onMount } from 'svelte';
 
     onMount(() => {
-        console.log(`Hello, Rocket + Svelte!`);
+        console.log(`Hello, Fiber + Svelte!`);
     });
 </script>
